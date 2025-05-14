@@ -12,7 +12,8 @@ Este es un microservicio REST desarrollado con **Spring Boot**, que expone una A
 - Maven  
 
 ## 📦 Estructura del proyecto
-```src/
+```
+src/
 └── main/
 ├── java/
 │ └── com/
@@ -22,7 +23,8 @@ Este es un microservicio REST desarrollado con **Spring Boot**, que expone una A
 │ ├── model/ # Clases modelo (Product)
 │ └── JavaMicroserviceDataApiApplication.java
 └── resources/
-└── application.properties```
+└── application.properties
+```
 
 ## 🚀 Ejecución local
 
