@@ -12,16 +12,17 @@ Este es un microservicio REST desarrollado con **Spring Boot**, que expone una A
 - Maven  
 
 ## 📦 Estructura del proyecto
-
 src/
- └── main/
-     ├── java/
-     │    └── com/example/java_microservice_data_api
-     │         ├── controller/   → Controladores REST
-     │         ├── model/        → Clases modelo (Product)
-     │         └── JavaMicroserviceDataApiApplication.java
-     └── resources/
-          └── application.properties
+└── main/
+├── java/
+│ └── com/
+│ └── example/
+│ └── java_microservice_data_api/
+│ ├── controller/ # Controladores REST
+│ ├── model/ # Clases modelo (Product)
+│ └── JavaMicroserviceDataApiApplication.java
+└── resources/
+└── application.properties
 
 ## 🚀 Ejecución local
 
